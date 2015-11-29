@@ -1,0 +1,4 @@
+- Ausreichend Zeit einplanen zwischen EAs
+- EAs rechtzeitig ankündigen
+- Abgabefristen in nicht zu kurzen Abständen
+- Wichtige Termine automatisch in den Outlook Kalender eines jeden studenten übernehmen
